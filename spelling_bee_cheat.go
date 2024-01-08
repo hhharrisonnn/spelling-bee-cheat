@@ -1,4 +1,4 @@
-package spellingbeecheat
+package main
 
 import (
 	"bufio"
@@ -7,6 +7,10 @@ import (
 	"os"
 	"strings"
 )
+
+func main() {
+	SpellingBeeCheat("", "")
+}
 
 func SpellingBeeCheat(centerLetter string, allLetters string) {
 	center := strings.ToLower(centerLetter)
