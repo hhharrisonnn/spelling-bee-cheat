@@ -8,7 +8,7 @@ Word list from https://github.com/dwyl/english-words.
 ### Source code
 To get the source code, run:
 ```
-git clone https://github.com/hhharrisonnn/spelling-bee-cheat
+git clone https://github.com/hhharrisonnn/spelling-bee-cheat.git
 ```
 
 ### Running the code
